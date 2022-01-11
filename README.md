@@ -1,2 +1,14 @@
 # Tech-Academy-Projects
-This repository is for my Tech Academy projects.
+
+This is my very first repository of my career as a software developer that was created simply for practice working with GitHub. 
+
+
+## Author: Eric C. Boland
+
+### Links:
+
+* GitHub: <https://github.com/EChristian74>
+* LinkedIn: <https://www.linkedin.com/in/christianmethodical/>
+* Email: <christianmethodical@gmail.com>
+
+Jump to: [Page Top](#tech-academy-projects)
