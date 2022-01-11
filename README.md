@@ -11,4 +11,4 @@ This is my very first repository of my career as a software developer that was c
 * LinkedIn: <https://www.linkedin.com/in/christianmethodical/>
 * Email: <christianmethodical@gmail.com>
 
-Jump to: [Page Top](#tech-academy-projects)
+
